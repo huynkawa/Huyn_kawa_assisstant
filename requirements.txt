@@ -1,3 +1,0 @@
-streamlit
-fuzzywuzzy
-python-Levenshtein
